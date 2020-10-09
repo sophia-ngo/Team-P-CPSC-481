@@ -17,3 +17,9 @@
 2. <b>Online Repository:</b> Our team has chosen to use GitHub to host our online repository. If you are reading this, congratulations, you have found our online repository :)<br/>
 3. <b>Project Portfolio:</b> This README document is our project portfolio. As you can see, we have written about our project progress and stage one deliverables.<br/>
 4. <b>Three Project Ideas:</b> Our project ideas have been described in [this](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-one/Project%20Ideas.pdf) file.<br/>
+
+## Stage Two Project Progress
+> To be added... 
+
+## Stage Two Deliverables
+1. To be added...<br/>  
