@@ -10,6 +10,8 @@
 |[Stage One](#stage-one)|[Stage Two](#stage-two)|
 |---|---|
 
+[Stage One](#stage-one)
+
 <a name="stage-one">
   
 ## Stage One Project Progress
