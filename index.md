@@ -7,6 +7,10 @@
 > Soumya Kumaria (10124004) <br/>
 > Sydney Kwok (30073206) <br/>
 
+|[Stage One](#stage-one)|[Stage Two](#stage-two)|
+|---|---|
+
+<a name="stage-one">
 ## Stage One Project Progress
 > For stage one of the team project, many discussions were held to prepare ourselves before we move on to the next stage and begin working on the actual project. <br/>
 > We began by discussing our individual expectations and goals so that we could put together a collective set of guidelines and expectations in the form of a team contract that we could all agree on. </br>
@@ -18,6 +22,7 @@
 3. <b>Project Portfolio:</b> This README document is our project portfolio. As you can see, we have written about our project progress and stage one deliverables.<br/>
 4. <b>Three Project Ideas:</b> Our project ideas have been described in [this](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-one/Project%20Ideas.pdf) file.<br/>
 
+<a name="stage-two">
 ## Stage Two Project Progress
 > To be added... 
 
