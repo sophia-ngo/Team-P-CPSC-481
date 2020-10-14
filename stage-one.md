@@ -1,6 +1,6 @@
 layout: page
 title: "Stage One"
-permalink: /stage-one/
+permalink: /Team-P-CPSC-481/stage-one/
 
 ## Stage One Project Progress
 > For stage one of the team project, many discussions were held to prepare ourselves before we move on to the next stage and begin working on the actual project. <br/>
