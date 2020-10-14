@@ -1,4 +1,4 @@
-# CPSC 481 Team P Project Portfolio
+# Project Portfolio
 
 ## Team Members 
 > Eric Wu (30055876) <br/>
@@ -14,7 +14,7 @@
   
 ## Stage One Project Progress
 > For stage one of the team project, many discussions were held to prepare ourselves before we move on to the next stage and begin working on the actual project. <br/>
-> We began by discussing our individual expectations and goals so that we could put together a collective set of guidelines and expectations in the form of a team contract that we could all agree on. </br>
+> We began by discussing our individual expectations and goals so that we could put together a collective set of guidelines and expectations in the form of a team contract that we could all agree on.
 > Once we had our team contract put together, our discussions moved on to the topic of project ideas. We put our heads together during brainstorming sessions and came up with three ideas for our project. 
 
 ## Stage One Deliverables
