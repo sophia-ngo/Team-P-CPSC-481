@@ -7,10 +7,8 @@
 > Soumya Kumaria (10124004) <br/>
 > Sydney Kwok (30073206) <br/>
 
-|[Stage One](#stage-one)|[Stage Two](#stage-two)|
-|---|---|
-
 [Stage One](#stage-one)
+[Stage Two](#stage-two)
 
 <a name="stage-one">
   
