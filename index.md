@@ -14,7 +14,7 @@
   
 ## Stage One Project Progress
 > For stage one of the team project, many discussions were held to prepare ourselves before we move on to the next stage and begin working on the actual project. <br/>
-> We began by discussing our individual expectations and goals so that we could put together a collective set of guidelines and expectations in the form of a team contract that we could all agree on. </br>
+> We began by discussing our individual expectations and goals so that we could put together a collective set of guidelines and expectations in the form of a team contract that we could all agree on. <br/>
 > Once we had our team contract put together, our discussions moved on to the topic of project ideas. We put our heads together during brainstorming sessions and came up with three ideas for our project. 
 
 ## Stage One Deliverables
@@ -26,9 +26,9 @@
 <a name="stage-two">
   
 ## Stage Two Project Progress
-> For stage two of the team project, we decided which project idea we wanted to move forward with: a virtual closet mobile application! We have worked together in this stage to further flesh out the details of this idea.</br>
-> After finalizing our project idea, we put our heads together to identify the stakeholders and users of our application.</br>
-> Next, with our identified potential users/stakeholders in mind, we chose three IDEO method cards to apply in our user research.</br>
+> For stage two of the team project, we decided which project idea we wanted to move forward with: a virtual closet mobile application! We have worked together in this stage to further flesh out the details of this idea.<br/>
+> After finalizing our project idea, we put our heads together to identify the stakeholders and users of our application.<br/>
+> Next, with our identified potential users/stakeholders in mind, we chose three IDEO method cards to apply in our user research.<br/>
 > Finally, after having completed our user research, we put together a list of user tasks. 
 
 ## Stage Two Deliverables
