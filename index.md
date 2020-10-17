@@ -32,4 +32,4 @@
 > Finally, after having completed our user research, we put together a list of user tasks. 
 
 ## Stage Two Deliverables
-1. <b>User Research Report:</b> To present our work at this stage, we put together a user research report. Our user research report can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481).<br/>  
+1. <b>User Research Report:</b> To present our work at this stage, we put together a user research report. Our user research report can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-two/Stage%20Two_%20User%20Research%20Report.pdf).<br/>  
