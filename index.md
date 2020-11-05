@@ -47,6 +47,6 @@
 > 
 > ## Deliverables
 > 1. <b>Stage Three report:</b>
-> 2. <b>Demo video:</b>
-> 3. <b>Low-fi prototype:</b>
+> 2. <b>Demo Video:</b>
+> 3. <b>Low-fi Prototype:</b>
 > 4. <b>Presentation:</b>
