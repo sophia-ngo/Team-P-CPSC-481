@@ -1,19 +1,19 @@
 # Project Portfolio
 
 ## Team Members 
-> Eric Wu (30055876) <br>
-> Jack Yang (30062393) <br>
-> Sophia Ngo (30063935) <br>
-> Soumya Kumaria (10124004) <br>
-> Sydney Kwok (30073206)
+> ###### Eric Wu (30055876) <br>
+> ###### Jack Yang (30062393) <br>
+> ###### Sophia Ngo (30063935) <br>
+> ###### Soumya Kumaria (10124004) <br>
+> ###### Sydney Kwok (30073206)
 
 ---
 
 # Stages
 
-> ### [Stage One](#stage-one) <br>
-> ### [Stage Two](#stage-two) <br>
-> ### [Stage Three](#stage-three)
+> ## [Stage One](#stage-one) <br>
+> ## [Stage Two](#stage-two) <br>
+> ## [Stage Three](#stage-three)
 
 ---
 
