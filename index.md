@@ -11,9 +11,9 @@
 
 # Stages
 
-> ## [Stage One](# stage-one) <br>
-> ## [Stage Two](# stage-two) <br>
-> ## [Stage Three](# stage-three)
+> ## [Stage One](#-stage-one) <br>
+> ## [Stage Two](#-stage-two) <br>
+> ## [Stage Three](#-stage-three)
 
 ---
 
