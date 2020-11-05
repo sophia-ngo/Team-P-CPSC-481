@@ -52,3 +52,7 @@
 > ## Project Progress
 > 
 > ## Deliverables
+> 1. <b>Stage Three report:</b>
+> 2. <b>Demo video:</b>
+> 3. <b>Low-fi prototype:</b>
+> 4. <b>Presentation:</b>
