@@ -29,7 +29,9 @@
 > 2. <b>Online Repository:</b> Our team has chosen to use GitHub to host our online repository. You can view our online repository [here](https://github.com/sophiango-uofc/Team-P-CPSC-481).<br/>
 > 3. <b>Project Portfolio:</b> This webpage is our project portfolio. As you can see, we have written about our project progress and deliverables at the end of each stage.<br/>
 > 4. <b>Three Project Ideas:</b> Our project ideas have been described in [this](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-one/Project%20Ideas.pdf) file.<br/>
-  
+
+---
+
 # Stage Two<a name="stagetwo"></a>
   
 > ## Project Progress
@@ -39,8 +41,10 @@
 > Finally, after having completed our user research, we put together a list of user tasks. 
 
 > ## Deliverables
-> 1. <b>User Research Report:</b> To present our work at this stage, we put together a user research report. Our user research report can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-two/Stage%20Two_%20User%20Research%20Report.pdf).<br/>  
-  
+> 1. <b>User Research Report:</b> To present our work at this stage, we put together a user research report. Our user research report can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-two/Stage%20Two_%20User%20Research%20Report.pdf).<br/>
+
+---
+
 # Stage Three<a name="stagethree"></a>
 
 > ## Project Progress
