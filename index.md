@@ -11,13 +11,13 @@
 
 # Stages
 
-> ## [Stage One](#stage-one) <br>
-> ## [Stage Two](#stage-two) <br>
-> ## [Stage Three](#stage-three)
+> ## [Stage One](#stageone) <br>
+> ## [Stage Two](#stagetwo) <br>
+> ## [Stage Three](#stagethree)
 
 ---
 
-# Stage One
+# Stage One<a name="stageone"></a>
 
 > ## Project Progress
 > For stage one of the team project, many discussions were held to prepare ourselves before we move on to the next stage and begin working on the actual project. <br/>
@@ -30,7 +30,7 @@
 > 3. <b>Project Portfolio:</b> This webpage is our project portfolio. As you can see, we have written about our project progress and deliverables at the end of each stage.<br/>
 > 4. <b>Three Project Ideas:</b> Our project ideas have been described in [this](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-one/Project%20Ideas.pdf) file.<br/>
   
-# Stage Two
+# Stage Two<a name="stagetwo"></a>
   
 > ## Project Progress
 > For stage two of the team project, we decided which project idea we wanted to move forward with: a virtual closet mobile application! We have worked together in this stage to further flesh out the details of this idea.<br/>
@@ -41,7 +41,7 @@
 > ## Deliverables
 > 1. <b>User Research Report:</b> To present our work at this stage, we put together a user research report. Our user research report can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-two/Stage%20Two_%20User%20Research%20Report.pdf).<br/>  
   
-# Stage Three
+# Stage Three<a name="stagethree"></a>
 
 > ## Project Progress
 > In this stage, our efforts were focused on ideation and prototyping.<br/>
