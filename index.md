@@ -44,9 +44,12 @@
 # Stage Three
 
 > ## Project Progress
-> 
+> In this stage, our efforts were focused on ideation and prototyping.<br/>
+> We began by brainstorming designs for the system. Once we had come up with a variety of sketches, we discussed the ideas behind them and constructed an affinity diagram. Following the affinity diagramming session, we selected and polished a few of our most promising ideas. We then chose one of these ideas and constructed a storyboard that illustrates the scope of the interaction between the user and the interface.</br>
+> From here, we moved on to the prototyping phase. Based on the storyboard, we used Balsamiq to construct a low fidelity prototype of how we expect our system to be used. Then, we conducted a task-centered system cognitive walkthrough to evaluate the major tasks that we had identified previously in Stage Two. Based on the evaluation results, we also revised our prototype.
+
 > ## Deliverables
-> 1. <b>Stage Three Report:</b>
-> 2. <b>Demo Video:</b>
-> 3. <b>Low-fi Prototype:</b>
-> 4. <b>Presentation:</b>
+> 1. <b>Stage Three Report:</b> To present our progress in this stage, we have put together a report. This report can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/tree/stage-three).<br/>
+> 2. <b>Demo Video:</b> In order to demonstrate our low-fi protoype, we've put together a video. The demo video can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/tree/stage-three).<br/>
+> 3. <b>Low-fi Prototype:</b> To check out the protoype for yourself, we have posted a soft copy of it [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/tree/stage-three).<br/>
+> 4. <b>Presentation:</b> We have also put together a PowerPoint presentation of our project idea and our journey in this stage. This presentation can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Stage%20Three%20Presentation.pptx).<br/>
