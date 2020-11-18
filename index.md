@@ -13,7 +13,8 @@
 
 > ## [Stage One](#stageone) <br>
 > ## [Stage Two](#stagetwo) <br>
-> ## [Stage Three](#stagethree)
+> ## [Stage Three](#stagethree) <br>
+> ## [Stage Four](#stagefour)
 
 ---
 
@@ -57,3 +58,11 @@
 > 2. <b>Demo Video:</b> In order to demonstrate our low-fi protoype, we've put together a video. The demo video can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/PrototypeDemoVid.mp4).<br/>
 > 3. <b>Low-fi Prototype:</b> To check out the protoype for yourself, we have posted a soft copy of it [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Closet%20App%20Prototype.pdf).<br/>
 > 4. <b>Presentation:</b> We have also put together a PowerPoint presentation of our project idea and our journey in this stage. This presentation can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Stage%20Three%20Presentation.pptx).<br/>
+
+# Stage Four<a name="stagefour"></a>
+
+> ## Project Progress
+
+> ## Deliverables
+> 1. <b>Heuristic Evaluation Report:</b> 
+> 2. <b>Presentation:</br> 
