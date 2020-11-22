@@ -64,8 +64,8 @@
 # Stage Four<a name="stagefour"></a>
 
 > ## Project Progress
-> In this stage, we created a high fidelity prototype.
-> To create our prototype we used a program named Figma. There was a learning curve when starting out, but once we got the hang of it we were able to convert our low fidelity prototype into a high fidelity one. We started off by copying our low-fi prototype and transferred it onto Figma. Next, we started adding more details such as, a logo, colour, images, and transitions between screens. 
+> In this stage, we created a high fidelity prototype. <br/>
+> To create our prototype we used a program named Figma. There was a learning curve when starting out, but once we got the hang of it we were able to convert our low fidelity prototype into a high fidelity one. We started off by copying our low-fi prototype and transferred it onto Figma. Next, we started adding more details such as, a logo, colour, images, and transitions between screens. <br/>
 > Once prototyping was finished, we conducted a heuristic evaluation to figure out what we can improve in our prototype. We split the group up into three evaluators and two reviewers. After the evaluation was finished we took took the findings from the reviewers and iterated our high-fidelity prototype.
 
 > ## Deliverables
