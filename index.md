@@ -64,5 +64,5 @@
 > ## Project Progress
 
 > ## Deliverables
-> 1. <b>Heuristic Evaluation Report:</b> 
+> 1. <b>Heuristic Evaluation Report:</b> The report can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Heuristic%20Evaluation%20Report.pdf).
 > 2. <b>Presentation:</br> 
