@@ -59,10 +59,15 @@
 > 3. <b>Low-fi Prototype:</b> To check out the protoype for yourself, we have posted a soft copy of it [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Closet%20App%20Prototype.pdf).<br/>
 > 4. <b>Presentation:</b> We have also put together a PowerPoint presentation of our project idea and our journey in this stage. This presentation can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Stage%20Three%20Presentation.pptx).<br/>
 
+---
+
 # Stage Four<a name="stagefour"></a>
 
 > ## Project Progress
+> In this stage, we created a high fidelity prototype.
+> To create our prototype we used a program named Figma. There was a learning curve when starting out, but once we got the hang of it we were able to convert our low fidelity prototype into a high fidelity one. We started off by copying our low-fi prototype and transferred it onto Figma. Next, we started adding more details such as, a logo, colour, images, and transitions between screens. 
+> Once prototyping was finished, we conducted a heuristic evaluation to figure out what we can improve in our prototype. We split the group up into three evaluators and two reviewers. After the evaluation was finished we took took the findings from the reviewers and iterated our high-fidelity prototype.
 
 > ## Deliverables
-> 1. <b>Heuristic Evaluation Report:</b> The report can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Heuristic%20Evaluation%20Report.pdf).
-> 2. <b>Presentation:</br> 
+> 1. <b>Heuristic Evaluation Report:</b> The summary of the heuristic evaluation can be found in a report [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Heuristic%20Evaluation%20Report.pdf). <br/>
+> 2. <b>Presentation:</br> Throughout this stage we have documented our progress of the high fidelity prototype in a PowerPoint presentation. The presentation can be found [here] ().
