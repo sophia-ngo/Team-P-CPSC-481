@@ -57,7 +57,7 @@
 > 1. <b>Stage Three Report:</b> To present our progress in this stage, we have put together a report. This report can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Stage%20Three%20Report.pdf).<br/>
 > 2. <b>Demo Video:</b> In order to demonstrate our low-fi protoype, we've put together a video. The demo video can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/PrototypeDemoVid.mp4).<br/>
 > 3. <b>Low-fi Prototype:</b> To check out the protoype for yourself, we have posted a soft copy of it [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Closet%20App%20Prototype.pdf).<br/>
-> 4. <b>Presentation:</b> We have also put together a PowerPoint presentation of our project idea and our journey in this stage. This presentation can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Stage%20Three%20Presentation.pptx).<br/>
+> 4. <b>Presentation:</b> We have also put together a PowerPoint presentation of our project idea and our journey in this stage. This presentation can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Stage%20Three%20Presentation.pptx). We also have a demo of our low-fi prototype in the presentation but a seperate video can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/PrototypeDemoVid.mp4). <br/>
 
 ---
 
@@ -70,4 +70,4 @@
 
 > ## Deliverables
 > 1. <b>Heuristic Evaluation Report:</b> The summary of the heuristic evaluation can be found in a report [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Heuristic%20Evaluation%20Report.pdf). <br/>
-> 2. <b>Presentation:</b> Throughout this stage we have documented our progress of the high fidelity prototype in a PowerPoint presentation. The presentation can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Stage%20Four%20Presentation.mp4).
+> 2. <b>Presentation:</b> Throughout this stage we have documented our progress of the high fidelity prototype in a PowerPoint presentation. The presentation can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Stage%20Four%20Presentation.mp4). Although included in the presentation, the video of the hi-fi prototype can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/PrototypeDemoVid.mp4).
