@@ -70,4 +70,4 @@
 
 > ## Deliverables
 > 1. <b>Heuristic Evaluation Report:</b> The summary of the heuristic evaluation can be found in a report [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Heuristic%20Evaluation%20Report.pdf). <br/>
-> 2. <b>Presentation:</b> Throughout this stage we have documented our progress of the high fidelity prototype in a PowerPoint presentation. The presentation can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Stage%20Four%20Presentation.pptx).
+> 2. <b>Presentation:</b> Throughout this stage we have documented our progress of the high fidelity prototype in a PowerPoint presentation. The presentation can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Stage%20Four%20Presentation.mp4).
