@@ -21,7 +21,8 @@
 > ## [Stage One](#stageone) <br>
 > ## [Stage Two](#stagetwo) <br>
 > ## [Stage Three](#stagethree) <br>
-> ## [Stage Four](#stagefour)
+> ## [Stage Four](#stagefour) <br>
+> ## [Stage Five](#stagefive)
 
 ---
 
@@ -78,3 +79,15 @@
 > ## Deliverables
 > 1. <b>Heuristic Evaluation Report:</b> The summary of the heuristic evaluation can be found in a report [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Heuristic%20Evaluation%20Report.pdf). <br/>
 > 2. <b>Presentation:</b> Throughout this stage we have documented our progress of the high fidelity prototype in a PowerPoint presentation. The presentation can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Stage%20Four%20Presentation.mp4). Although included in the presentation, the video of the hi-fi prototype can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Stage4Demo.mp4).
+
+---
+
+# Stage Five<a name="stagefive"></a>
+
+> ## Project Progress
+>
+
+> ## Deliverables
+> 1. <b> Hi-Fi Prototype Demo: </b>
+> 2. <b> Portfolio: </b> Throughout the entire project, we have been adding our stage progress to this porfolio. This website you are on is the portfolio. <br/>
+> 3. <b> Final UCD Report: </b>
