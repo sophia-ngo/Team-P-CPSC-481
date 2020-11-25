@@ -89,5 +89,5 @@
 
 > ## Deliverables
 > 1. <b> Hi-Fi Prototype Demo: </b>
-> 2. <b> Portfolio: </b> Throughout the entire project, we have been adding our stage progress to this porfolio. This website you are on is the portfolio. <br/>
+> 2. <b> Portfolio: </b> Throughout the entire project, we have been adding the progress of each stage to this porfolio. This website you are on is the portfolio. <br/>
 > 3. <b> Final UCD Report: </b>
