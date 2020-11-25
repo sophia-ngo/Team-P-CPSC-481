@@ -1,4 +1,11 @@
 # Project Portfolio
+---
+
+# Project Idea 
+> Our project idea is a Virtual Closet mobile application.<br/>
+> We expect the app to be used by anyone from clothing retailers, personal stylists, and social media influencers to your average joe user.<br/>
+> The system will provide users with a virtual database to add clothes and accessories from their physical closet into their virtual one. It will also serve as a social platform of sorts, as users can share their wardrobe and outfit ideas with their followers. It could also be used to plan outfits in advance for those days when you just don’t know what to wear.<br/>
+> The app will allow users to mix and match clothing items from their database of clothing, offering a solution to the age-old question, “What should I wear today?”.
 
 ## Team Members 
 > ### Eric Wu (30055876) <br>
@@ -6,12 +13,6 @@
 > ### Sophia Ngo (30063935) <br>
 > ### Soumya Kumaria (10124004) <br>
 > ### Sydney Kwok (30073206)
-
-## Project Idea 
-> Our project idea is a Virtual Closet mobile application.<br/>
-> We expect the app to be used by anyone from clothing retailers, personal stylists, and social media influencers to your average joe user.<br/>
-> The system will provide users with a virtual database to add clothes and accessories from their physical closet into their virtual one. It will also serve as a social platform of sorts, as users can share their wardrobe and outfit ideas with their followers. It could also be used to plan outfits in advance for those days when you just don’t know what to wear.<br/>
-> The app will allow users to mix and match clothing items from their database of clothing, offering a solution to the age-old question, “What should I wear today?”.
 
 ---
 
