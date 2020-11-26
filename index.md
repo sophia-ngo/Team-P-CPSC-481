@@ -74,7 +74,7 @@
 > ## Project Progress
 > In this stage, we created a high fidelity prototype. <br/>
 > To create our prototype we used a program named Figma. There was a learning curve when starting out, but once we got the hang of it we were able to convert our low fidelity prototype into a high fidelity one. We started off by copying our low-fi prototype and transferred it onto Figma. Next, we started adding more details such as, a logo, colour, images, and transitions between screens. <br/>
-> Once prototyping was finished, we conducted a heuristic evaluation to figure out what we can improve in our prototype. We split the group up into three evaluators and two reviewers. After the evaluation was finished we took took the findings from the reviewers and iterated our high-fidelity prototype.
+> Once prototyping was finished, we conducted a heuristic evaluation to figure out what we can improve in our prototype. We split the group up into three evaluators and two reviewers. After the evaluation was finished we took took the findings from the reviewers and iterated our hi-fi prototype.
 
 > ## Deliverables
 > 1. <b>Heuristic Evaluation Report:</b> The summary of the heuristic evaluation can be found in a report [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Heuristic%20Evaluation%20Report.pdf). <br/>
@@ -85,9 +85,10 @@
 # Stage Five<a name="stagefive"></a>
 
 > ## Project Progress
->
+> In this final stage, we added the final touches to our high fidelity prototype. <br/>
+> We added the last two vertical tasks and finalized the prototype. Along with the prototype, we wrote a final report which documents information about the app and our process in making it.
 
 > ## Deliverables
-> 1. <b> Hi-Fi Prototype Demo: </b>
+> 1. <b> Hi-Fi Prototype Demo: </b> The demo of our final prototype can be found [here](). <br/>
 > 2. <b> Portfolio: </b> Throughout the entire project, we have been adding the progress of each stage to this porfolio. This website you are on is the portfolio. <br/>
-> 3. <b> Final UCD Report: </b>
+> 3. <b> Final UCD Report: </b> The report containing our entire project can be found [here]().
