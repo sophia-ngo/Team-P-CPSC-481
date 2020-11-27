@@ -91,4 +91,4 @@
 > ## Deliverables
 > 1. <b> Hi-Fi Prototype Demo: </b> The demo of our final prototype can be found [here](). <br/>
 > 2. <b> Portfolio: </b> Throughout the entire project, we have been adding the progress of each stage to this porfolio. This website you are on is the portfolio. <br/>
-> 3. <b> Final UCD Report: </b> The report containing our entire project can be found [here]().
+> 3. <b> Final UCD Report: </b> The report containing our entire project can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-five/Final%20UCD%20Report.pdf).
