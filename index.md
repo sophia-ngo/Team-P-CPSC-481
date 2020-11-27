@@ -18,10 +18,11 @@
 
 # Stages
 
-> ## [Stage One](#stageone) <br>
-> ## [Stage Two](#stagetwo) <br>
-> ## [Stage Three](#stagethree) <br>
-> ## [Stage Four](#stagefour) <br>
+> To approach this project, we worked through five stages to explore the processes of design from planning to prototyping. <br/>
+> ## [Stage One](#stageone) <br/>
+> ## [Stage Two](#stagetwo) <br/>
+> ## [Stage Three](#stagethree) <br/>
+> ## [Stage Four](#stagefour) <br/>
 > ## [Stage Five](#stagefive)
 
 ---
