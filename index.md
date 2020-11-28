@@ -18,7 +18,7 @@
 
 # Stages
 
-> To approach this project, we worked through five stages to explore the processes of design from planning to prototyping. <br/>
+To approach this project, we worked through five stages to explore the processes of design from planning to prototyping. <br/>
 > ## [Stage One](#stageone) <br/>
 > ## [Stage Two](#stagetwo) <br/>
 > ## [Stage Three](#stagethree) <br/>
