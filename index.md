@@ -90,6 +90,6 @@ In this final stage, we added the final touches to our high fidelity prototype. 
 We added the last two vertical tasks and finalized the prototype. Along with the prototype, we wrote a final report which documents information about the app and our process in making it.
 
 ## Deliverables
-1. <b> Hi-Fi Prototype Demo: </b> The demo of our final prototype can be found [here](). <br/>
+1. <b> Hi-Fi Prototype Demo: </b> The demo of our final prototype can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-five/CPSC%20481%2C%20Team%20P%2C%20Stage%205%20Demo.mp4). <br/>
 2. <b> Portfolio: </b> Throughout the entire project, we have been adding the progress of each stage to this porfolio. This website you are on is the portfolio. <br/>
 3. <b> Final UCD Report: </b> The report containing our entire project can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-five/Final%20UCD%20Report.pdf).
