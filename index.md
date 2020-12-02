@@ -68,7 +68,7 @@ From here, we moved on to the prototyping phase. Based on the storyboard, we use
 3. <b>Low-fi Prototype:</b> To check out the protoype for yourself, we have posted a soft copy of it [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Closet%20App%20Prototype.pdf).<br/>
 4. <b>Presentation:</b> We have also put together a PowerPoint presentation of our project idea and our journey in this stage. This presentation can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/Stage%20Three%20Presentation.pptx). We also have a demo of our low-fi prototype in the presentation but a seperate video can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-three/PrototypeDemoVid.mp4). <br/>
 
-<img src="images/lowfi%20home.png" width="175"> <img src="images/lowfi%20calendar.png" width="175"> <img src="images/lowfi%20feed.png" width="175"> <img src="images/lowfi%20profile.png" width="175">
+<img src="images/lowfi%20home.png" width="150"> <img src="images/lowfi%20calendar.png" width="150"> <img src="images/lowfi%20feed.png" width="150"> <img src="images/lowfi%20profile.png" width="150">
 
 ---
 
@@ -83,7 +83,7 @@ Once prototyping was finished, we conducted a heuristic evaluation to figure out
 1. <b>Heuristic Evaluation Report:</b> The summary of the heuristic evaluation can be found in a report [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Heuristic%20Evaluation%20Report.pdf). <br/>
 2. <b>Presentation:</b> Throughout this stage we have documented our progress of the high fidelity prototype in a PowerPoint presentation. The presentation can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Stage%20Four%20Presentation.mp4). Although included in the presentation, the video of the hi-fi prototype can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-four/Stage4Demo.mp4). <br/>
 
-<img src="images/hifi%20home.png" width="180"> <img src="images/hifi%20calendar.png" width="180"> <img src="images/hifi%20feed.png" width="180"> <img src="images/hifi%20profile.png" width="180"> 
+<img src="images/hifi%20home.png" width="150"> <img src="images/hifi%20calendar.png" width="150"> <img src="images/hifi%20feed.png" width="150"> <img src="images/hifi%20profile.png" width="150"> 
 
 ---
 
