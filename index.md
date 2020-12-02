@@ -90,8 +90,8 @@ Once prototyping was finished, we conducted a heuristic evaluation to figure out
 # Stage Five<a name="stagefive"></a>
 
 ## Project Progress
-In this final stage, we added the final touches to our high fidelity prototype. <br/>
-We added the last two vertical tasks and finalized the prototype. Along with the prototype, we wrote a final report which documents information about the app and our process in making it.
+In this final stage, our efforts focussed on the final touches to our high fidelity prototype. <br/>
+We added the last two vertical tasks and finalized the prototype. Along with the prototype, we assembled a final report which documents information about the app and our process in making it.
 
 ## Deliverables
 1. <b> Hi-Fi Prototype Demo: </b> The demo of our final prototype can be found [here](https://github.com/sophiango-uofc/Team-P-CPSC-481/blob/stage-five/CPSC%20481%2C%20Team%20P%2C%20Stage%205%20Demo.mp4). <br/>
